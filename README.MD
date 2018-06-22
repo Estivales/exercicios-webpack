@@ -1,1 +1,2 @@
-Realziação de exercicios de REACT
+Realização de exercicios de REACT
+
